@@ -5,6 +5,9 @@ let dogs=[]
 dogs.push({name:"Fluffy",Breed:"Poodle",picture:""})
 dogs.push({name:"Otto",Breed:"Chihuahua",picture:""})
 dogs.push({name:"Alfie",Breed:"French Bulldog",picture:""})
+dogs.push({name:"BullsEye",Breed:"English Terrier",picture:""})
+dogs.push({name:"Rick",Breed:"Golden Lab",picture:""})
+dogs.push({name:"Paul",Breed:"French Bulldog",picture:""})
 
 //6 dogs - on 300*400 pixel cards (with nice padding and margins, and a nice background colour)
 // An image for each dog
